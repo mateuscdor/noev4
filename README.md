@@ -34,8 +34,8 @@ Click the deploy icon below !
 > pkg install ffmpeg
 > pkg install yarn
 > termux-setup-storage
-> git clone https://github.com/Lexxy24/NEOBOTV4.git
-> cd NEOBOTV4
+> git clone https://github.com/INTEXSTORE/noev4.git
+> cd neov4
 > yarn
 > rm -r session.json
 > npm start
@@ -43,8 +43,8 @@ Click the deploy icon below !
 
 ## RDP/VPS USER
 ```bash 
-> git clone https://github.com/Lexxy24/NEOBOTV4.git
-> cd NEOBOTV4
+> git clone https://github.com/INTEXSTORE/noev4.git
+> cd neov4
 > npm install
 > rm -r session.json
 > npm start
