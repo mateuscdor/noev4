@@ -1,16 +1,16 @@
 {
   "SmBoL1": "ﾒ",
   "SmBoL2": ">",
-  "ownerNumber": ["6283834558105@s.whatsapp.net"],
-  "ownerName": ["Lexxy Official"],
-  "botName": "Neobot",
+  "ownerNumber": ["62813180544825@s.whatsapp.net"],
+  "ownerName": ["『™Iyanz』"],
+  "botName": "Intexstore-25",
   "sessionName": "session",
-  "pathimg": "./storage/media/neobot.png",
-  "FakeNya": "NEOXY-TEAM ID © 2021",
+  "pathimg": "./storage/media/INTEX.png",
+  "FakeNya": "INTEX-TEAM ID © 2021",
   "gamewaktu": 90,
   "limitCount": 25,
   "gcount": {
-	"prem": 35,
+	"prem": 1000,
 	"user": 15
   }
 }
